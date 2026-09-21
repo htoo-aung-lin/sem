@@ -7,3 +7,7 @@ Testing Java 25 workflow.
 [![LICENSE](https://img.shields.io/github/license/htoo-aung-lin/sem.svg?style=flat-square)](https://github.com/htoo-aung-lin/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/htoo-aung-lin/sem/all.svg?style=flat-square)](https://github.com/htoo-aung-lin/sem/releases)
+
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/htoo-aung-lin/sem/main.yml/develop?style=flat-square)
+
