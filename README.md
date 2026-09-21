@@ -9,5 +9,4 @@ Testing Java 25 workflow.
 [![Releases](https://img.shields.io/github/release/htoo-aung-lin/sem/all.svg?style=flat-square)](https://github.com/htoo-aung-lin/sem/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/htoo-aung-lin/sem/main.yml/develop?style=flat-square)
-
+Develop Build Status ![Workflow Status](https://img.shields.io/github/actions/workflow/status/htoo-aung-lin/sem/main.yml?branch=develop&style=flat-square)
